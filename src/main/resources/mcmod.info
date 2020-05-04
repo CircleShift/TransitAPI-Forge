@@ -1,0 +1,16 @@
+[
+{
+  "modid": "transit-api",
+  "name": "TransitAPI",
+  "description": "Transit forge.",
+  "version": "0.11.2-forge",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CCGKyle"],
+  "credits": "HAH",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
